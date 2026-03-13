@@ -8,3 +8,7 @@ console.log(score+update);//7
 let year;
 console.log(year);//undefined
 console.log(score+year);//NAN
+
+
+let a=[]
+console.log(a)
