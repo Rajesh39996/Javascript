@@ -4,11 +4,11 @@
 // intro();
 
 
-// let intro1=function(){
-//     console.log("welcome the World!")
-// }
-// intro1()
-// console.log(intro1())
+let intro1=function(){
+    console.log("welcome the World!")
+}
+intro1()
+console.log(intro1())
 
 intro2()
 
